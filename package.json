@@ -50,7 +50,7 @@
   "scripts": {
     "clean:screenshots": "npx cypress/screenshots/*",
     "clean:video": "npx rimraf cypress/videos/*",
-    "lint": "npx tslint -c tslint.json './cypress/integration/*.ts'",
+    "lint": "npx tslint -c tslint.json './cypress/**/*.ts'",
     "open": "npx cypress open",
     "pretty": "npx prettier --no-config './cypress/**/*.ts' --write",
     "test": "npx cypress run"
