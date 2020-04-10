@@ -1,6 +1,6 @@
 | referrer                                                                        | count | uniques |
 | :------------------------------------------------------------------------------ | :---- | :------ |
-| /e2e-boilerplate/cypress-typescript-chai-expect                                 | 11    | 1       |
+| /e2e-boilerplate/cypress-typescript-chai-expect                                 | 12    | 2       |
 | /e2e-boilerplate/cypress-typescript-chai-expect/actions                         | 8     | 1       |
 | /e2e-boilerplate/cypress-typescript-chai-expect/runs/547332948                  | 3     | 1       |
 | /e2e-boilerplate/cypress-typescript-chai-expect/actions/runs/66995852           | 2     | 1       |
