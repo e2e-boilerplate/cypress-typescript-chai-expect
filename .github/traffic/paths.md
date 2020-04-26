@@ -1,9 +1,0 @@
-| referrer                                                                        | count | uniques |
-| :------------------------------------------------------------------------------ | :---- | :------ |
-| /e2e-boilerplate/cypress-typescript-chai-expect                                 | 12    | 2       |
-| /e2e-boilerplate/cypress-typescript-chai-expect/actions                         | 8     | 1       |
-| /e2e-boilerplate/cypress-typescript-chai-expect/runs/547332948                  | 3     | 1       |
-| /e2e-boilerplate/cypress-typescript-chai-expect/actions/runs/66995852           | 2     | 1       |
-| /e2e-boilerplate/cypress-typescript-chai-expect/blob/master/.github/FUNDING.yml | 1     | 1       |
-| /e2e-boilerplate/cypress-typescript-chai-expect/pull/2                          | 1     | 1       |
-| /e2e-boilerplate/cypress-typescript-chai-expect/tree/master/.github             | 1     | 1       |
